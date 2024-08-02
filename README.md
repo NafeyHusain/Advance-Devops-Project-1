@@ -1,6 +1,12 @@
 # Advance-Devops-Project-1
 #docker #kubernetes  #ansible #git #linux #jenkins  #dockerfile #k8 's #nexus 
 
+# Components and repository
+Repo  : https://github.com/NafeyHusain/SimpleJavaApi
+Installation script : https://github.com/NafeyHusain/Installation-script
+Jenkins shared library : https://github.com/NafeyHusain/jenkins_shared_library
+
+
 
 
 <img width="914" alt="Screenshot 2024-08-03 at 1 34 39 AM" src="https://github.com/user-attachments/assets/180d0a50-6f77-46f8-9902-ec68cccd386c">
